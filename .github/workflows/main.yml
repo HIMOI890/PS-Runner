@@ -4,7 +4,8 @@
 
 # Contains actions from other users - not all of the code originated from here!
 
-name: PowerShell virtual environment
+- name: PowerShell virtual environment
+  uses: Tyler887/PS-Runner@1.4.1
 
 
 
